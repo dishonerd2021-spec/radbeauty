@@ -1,0 +1,8 @@
+{
+  "name": "رادبیوتی | فروشگاه آنلاین آرایشی و بهداشتی",
+  "description": "نسخه بازطراحی‌شده، تمیز، مدرن و استاندارد فروشگاه آنلاین تخصصی محصولات آرایشی، بهداشتی و مراقبت پوست و مو رادبیوتی (Rad Beauty) با رابط کاربری لوکس و تجربه خرید حرفه‌ای.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
